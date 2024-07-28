@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+html{height:200%;}
+body {
+	margin: 20px;
+	background: linear-gradient(140deg,rgb(0, 0, 100),rgb(0, 0, 0));
+
+}
+p{
+	color:rgb(0, 0, 0);
+	font-size:2.5rem;font-family: 'Dancing Script', cursive;
+
+}
+button{
+	background-color:rgb(255, 255, 255);
+	border-color: black;
+	width:1200px;
+	border-radius: 10px;
+}
+
+.h_{
+	color:rgb(0, 0, 0);
+	font-size:5.0rem;font-family: 'Dancing Script', cursive;
+}
+.t_{
+	color:rgb(0, 0, 0);
+	font-size:1.2rem;font-family: 'Dancing Script', cursive;
+	text-indent: 20px;
+}
+.term {
+	color:rgb(0, 0, 0);
+	font-size:1.8rem;font-family: 'Dancing Script', cursive;
+	text-indent: 30px;
+	
+}
+.st {
+	color:rgb(0, 0, 220);
+	font-size:1.2rem;font-family: 'Dancing Script';
+}
+.st1 {
+	color:rgb(0, 0, 220);
+	font-size:1.2rem;font-family: 'Dancing Script', cursive;
+}
+.bk01 {
+	position: absolute;
+	background-attachment:fixed;
+	top: 250px;
+	left: 50px;
+	width:210px;
+	background-color:rgb(10, 100, 255);
+	border-color: black;
+	border-radius: 9px;
+}
+.bk11 {
+	position: absolute;
+	background-attachment:fixed;
+	top: 280px;
+	left: 50px;
+	width:100px;
+	background-color:rgb(10, 100, 255);
+	border-color: black;
+	border-radius: 9px;
+}
+.bk21 {
+	position: absolute;
+	background-attachment:fixed;
+	top: 280px;
+	left: 160px;
+	width:100px;
+	background-color:rgb(10, 100, 255);
+	border-color: black;
+	border-radius: 9px;
+}
+.bk0 {
+	
+	width:210px;
+	background-color:rgb(10, 100, 255);
+	border-color: black;
+	border-radius: 9px;
+}
+.bk1 {
+	margin: 0px 5px 0px 0px;
+	width:100px;
+	background-color:rgb(10, 100, 255);
+	border-color: black;
+	border-radius: 9px;
+}
+.bk2 {
+	
+	width:100px;
+	background-color:rgb(10, 100, 255);
+	border-color: black;
+	border-radius: 9px;
+}
+.table_block {
+  border-radius: 30px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -khtml-border-radius: 10px;
+  border: 1px solid #000;
+  display: block;
+}
+#ss {
+  margin: 0px 0px 0px 0px;
+  width:360px;
+  background: rgb(210, 255, 255);
+  border-radius: 20px;
+  
+}
+#ss2 {
+  margin: 0px 0px 0px 0px;
+  width:360px;
+  background: rgb(210, 255, 255);
+  border-radius: 20px;
+  
+}
+#area1 {
+	position: absolute;
+  	top: 240px;
+  	left: 100px;
+  	width:1200px;
+  	background: rgb(255, 255, 255);
+  	border-color: black;
+  	border-radius: 20px;	
+}
+#but_area {
+  	width:220px;
+  	height: 50px;
+  	background: rgb(255, 255, 255);
+  	border-radius: 5px;	
+}
+.imege_on{background-image: url(icon2.png);}
+
+#area2 {
+	position: absolute;
+  	top: 240px;
+  	right: 100px;
+  	width: 400px;
+  	
+  	background: rgb(255, 255, 255);
+  	border-color: black;
+  	border-radius: 20px;
+}
+#area3 {
+	position: absolute;
+	top: 700px;
+	right: 100px;
+  	width: 400px;
+  	
+  	background: rgb(240, 255, 255);
+  	border-color: black;
+  	border-radius: 20px;
+}
+#picture {
+	position: absolute;
+  	top: 110px;
+  	left: 420px;
+  	background: rgba(0, 0, 0, 0);
+}
+#headTable{
+	position: absolute;
+  	top: 20px;
+  	right: 100px;
+  	left: 100px;
+  	background: rgb(255, 255, 255);
+  	border-radius: 10px;
+}
